@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Partiendo de la función del programa anterior, hacer un programa al que se le introduzca una
+    fecha y el día de la semana (1-7) que era el 1 de enero de ese año y nos calcule el día de la semana
+    correspondiente a la fecha introducida.
  */
 package proyectojava;
 
